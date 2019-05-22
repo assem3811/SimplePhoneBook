@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1545770235 source:c:\users\assem\desktop\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1545896299 source:c:\users\assem\desktop\phonebook final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
